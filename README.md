@@ -1,6 +1,10 @@
 ### Hi there 👋
+### Let me introduce myself
+Hi, I am Kate Seonghyun Lee
+I am learning AI Data Science using python.
 
 <!--
+
 **kateshlee/kateshlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
