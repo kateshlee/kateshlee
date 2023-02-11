@@ -1,4 +1,4 @@
-Hi, I am Kate Seonghyun Lee.
+Hi, I am Kate(eng name), Seonghyun Lee.
 
 I am learning AI Data Science using python.
 
